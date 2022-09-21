@@ -1,0 +1,23 @@
+.main_icon {
+    max-width: 1920px;
+    background-color: #34547A;
+    margin: auto;
+}
+.icon {
+    width: 1100px;
+    margin: 0 auto;
+}
+.icon::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.icon_holder {
+    padding: 100px 0;
+    width: 141px;
+    height: 50px;
+    margin: 0 auto;
+    float: left;
+    width: 16%;
+    margin-right: ;
+}
